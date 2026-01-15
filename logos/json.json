@@ -1,7 +1,7 @@
 
 [
   { 
-    "id": "g0", "name": "Instagram", "category": "SNS", 
+    "id": "g0", "name": "인스타그램", "category": "SNS", 
     "description": "사진과 영상을 공유하는 세계 최대 SNS.",
     "trivia": "초기 이름은 'Burbn'이었지만, 사진 공유 기능에 집중하며 이름을 바꿨어요!",
     "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/instagram.webp"
@@ -13,10 +13,10 @@
     "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/kakaotalk.webp"
   },
   { 
-    "id": "k3", "name": "Toss", "category": "Finance", 
+    "id": "k3", "name": "스포티파이", "category": "Finance", 
     "description": "금융이 쉬워지는 간편 송금 앱.", 
     "trivia": "처음엔 송금만 됐지만, 지금은 주식부터 보험까지 다 되는 만능 앱이에요.",
-    "imageUrl": "https://logo.clearbit.com/toss.im"
+    "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/spotify.webp"
   },
   { 
     "id": "k2", "name": "Baemin", "category": "Life", 
