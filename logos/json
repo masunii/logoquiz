@@ -4,7 +4,7 @@
     "id": "g0", "name": "Instagram", "domain": "instagram.com", "category": "SNS", 
     "description": "사진과 영상을 공유하는 세계 최대 SNS.",
     "trivia": "초기 이름은 'Burbn'이었지만, 사진 공유 기능에 집중하며 이름을 바꿨어요!",
-    "imageUrl": "logos/instagram.webp"
+    "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/instagram.webp"
   },
   { 
     "id": "k1", "name": "KakaoTalk", "domain": "kakaocorp.com", "category": "SNS", 
