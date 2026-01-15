@@ -1,43 +1,43 @@
 
 [
   { 
-    "id": "g0", "name": "Instagram", "domain": "instagram.com", "category": "SNS", 
+    "id": "g0", "name": "Instagram", "category": "SNS", 
     "description": "사진과 영상을 공유하는 세계 최대 SNS.",
     "trivia": "초기 이름은 'Burbn'이었지만, 사진 공유 기능에 집중하며 이름을 바꿨어요!",
     "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/instagram.webp"
   },
   { 
-    "id": "k1", "name": "스포티파이", "domain": "kakaocorp.com", "category": "SNS", 
+    "id": "k1", "name": "카카오톡", "category": "SNS", 
     "description": "대한민국 국민 메신저.", 
     "trivia": "하루 평균 전송되는 메시지가 무려 100억 건이 넘는다고 해요!",
-    "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/spotify.webp"
+    "imageUrl": "https://raw.githubusercontent.com/masunii/logoquiz/main/logos/kakaotalk.webp"
   },
   { 
-    "id": "k3", "name": "Toss", "domain": "toss.im", "category": "Finance", 
+    "id": "k3", "name": "Toss", "category": "Finance", 
     "description": "금융이 쉬워지는 간편 송금 앱.", 
     "trivia": "처음엔 송금만 됐지만, 지금은 주식부터 보험까지 다 되는 만능 앱이에요.",
     "imageUrl": "https://logo.clearbit.com/toss.im"
   },
   { 
-    "id": "k2", "name": "Baemin", "domain": "baemin.com", "category": "Life", 
+    "id": "k2", "name": "Baemin", "category": "Life", 
     "description": "민트색 헬멧이 상징인 배달 앱.", 
     "trivia": "로고 속 서체는 '한나는열한살체'라는 고유의 폰트랍니다.",
     "imageUrl": "https://logo.clearbit.com/woowayahan.com"
   },
   { 
-    "id": "g2", "name": "YouTube", "domain": "youtube.com", "category": "Ent", 
+    "id": "g2", "name": "YouTube", "category": "Ent", 
     "description": "전 세계 모든 영상이 모이는 곳.", 
     "trivia": "유튜브의 첫 영상은 동물원에서 찍은 18초짜리 영상이었어요.",
     "imageUrl": "https://logo.clearbit.com/youtube.com"
   },
   { 
-    "id": "k4", "name": "Karrot", "domain": "daangn.com", "category": "Life", 
+    "id": "k4", "name": "Karrot", "category": "Life", 
     "description": "당신 근처의 따뜻한 중고거래 마켓.", 
     "trivia": "당근마켓의 마스코트 토끼 이름은 '당근이'입니다!",
     "imageUrl": "https://logo.clearbit.com/daangn.com"
   },
   { 
-    "id": "g3", "name": "Netflix", "domain": "netflix.com", "category": "Ent", 
+    "id": "g3", "name": "Netflix", "category": "Ent", 
     "description": "언제 어디서나 즐기는 영화와 시리즈.", 
     "trivia": "넷플릭스는 원래 우편으로 DVD를 빌려주던 회사였다는 사실, 아시나요?",
     "imageUrl": "https://logo.clearbit.com/netflix.com"
